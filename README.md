@@ -10,7 +10,7 @@ Would you like add slides from your presentation? Great! Fork this repository, a
 
 #### File name format
 
-`YYYY`-`MM`-`DD` `MEETING_NAME` - `PRESENTER_SURNAMES` `PRESENTER_NAMES`\_`2PRESENTER_SURNAMES` `2PRESENTER_NAMES`
+`YYYY`-`MM`-`DD` `MEETING_NAME` - `PRESENTER_SURNAMES` `PRESENTER_NAMES`, `2PRESENTER_SURNAMES` `2PRESENTER_NAMES`
 
 For more than one presenters, the next ones are listed in file name after first person.
 
@@ -31,7 +31,7 @@ Chcesz dodać slajdy z prezentacji? Świetnie! Sforkuj repozytorium, dodaj **sla
 
 #### Format nazwy pliku
 
-`RRRR`-`MM`-`DD` `NAZWA_SPOTKANIA` - `NAZWISKA_PREZENTERA` `IMIONA_PREZENTERA`\_`NAZWISKA_2_PREZENTERA` `IMIONA_2_PREZENTERA`
+`RRRR`-`MM`-`DD` `NAZWA_SPOTKANIA` - `NAZWISKA_PREZENTERA` `IMIONA_PREZENTERA`, `NAZWISKA_2_PREZENTERA` `IMIONA_2_PREZENTERA`
 
 W przypadku więcej niż jednego prowadzącego, kolejni wymieniani są w nazwie pliku zaraz po pierwszym.
 
